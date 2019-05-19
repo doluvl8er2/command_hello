@@ -1,3 +1,5 @@
+//For command line git tutorial
+//GitHub modification
 //Local Repositary modification
 
 print("Hello world")
